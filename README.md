@@ -2,7 +2,7 @@
 ### AIM:
 Build a binary classification model using a neural network to predict whether an individual earns more than \$50K annually based on demographic and work-related features.
 
-###  PROCEDURE
+###  PROCEDURE:
 
 1. ### Data Loading
 
